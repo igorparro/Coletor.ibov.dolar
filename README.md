@@ -34,5 +34,6 @@ Consiste somente em ter todas as bibliotecas instaladas e o email devido preench
 Igor Parro Arcas 
 
 Linkedin: https://www.linkedin.com/in/igor-parro-arcas/
+<BR/>
 portifólio: https://igorparrodev.wixsite.com/my-site-1
 
